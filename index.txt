@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello world2
-=======
 hello world1
->>>>>>> main
+helloworld
